@@ -1,0 +1,2 @@
+# miniproject
+Latihan mini projek
